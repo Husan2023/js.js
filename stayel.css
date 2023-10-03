@@ -1,0 +1,250 @@
+* {
+    background: rgba(30, 30, 32);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.log_text{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    justify-content: end;
+}
+
+.log_text li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.button{
+
+    width: 110px;
+    height: 40px;
+    background-color: rgba(30, 30, 32);
+    color: aliceblue;
+    border: solid 1px aliceblue;
+    border-radius: 5px;
+}
+
+.text-1{
+    width: 582px;
+    height: 252px;
+    color: #fffcfc;
+    font-size: 80px;
+   
+}
+.p_1{
+    width: 536px;
+    height: 117px;
+    font-size: 21px;
+    margin-top: 55px;
+    color: rgba(255, 255, 255, 0.70);
+}
+.bu{
+    width: 125px;
+    height: 40px;
+    background-color: #e500fa;
+    border: solid #e500fa;
+    margin-top: 20px;
+}
+
+.m{
+
+    margin-top: 100px;
+}
+
+
+.h00{
+    width: 588px;
+    height: 140px;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+
+.text-2{
+    width: 588px;
+    height: 78px;
+    font-size: 21px;
+    color: aliceblue;
+}
+
+.img{
+    width: 1200px;
+    height: 670px;
+}
+
+.h_001{
+    width: 695px;
+    height: 140px;
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; /* 116.667% */
+    margin-left: 50px;
+}
+
+
+.p_001{
+    width: 299px;
+    height: 56px;
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+
+.ti{
+ text-align: center;
+}
+
+.ti p{
+    width: 299px;
+    height: 56px;
+    font-size: 20px;
+}
+
+.h_002{
+    width: 685px;
+    height: 79px;
+    font-size: 58px;
+    margin-left: 450px;
+color: aliceblue;
+}
+
+.h_003{
+    width: 826px;
+    height: 132px;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+
+
+.tt{
+    margin-top: 250px;
+}
+
+.mm{
+    color: #f0f8ff;
+}
+.img_000{
+    width: 132px;
+    height: 40px;
+    margin-top: 7px;
+}
+.iconca_01{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 550px;
+}
+.iconca_02{
+    width: 51px;
+    height: 60px;
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: 100px;
+}
+.jasur{
+    margin-top: 200px;
+}
+.iconca_03{
+    width: 104.663px;
+    height: 120.067px;
+    position: absolute;
+    margin-top: 630px;
+    margin-left: 600px;
+}
+.iconca_04{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: 630px;
+    margin-left: 1150px;
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+
+  .iconca_05{
+
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 300px;
+  }
+  .swiper-card {
+    padding-top: 40px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.75px;
+}
+.card-text{
+    color: #FFF;
+}
+
+.h_004{
+     width: 685px;
+    height: 79px;
+    font-size: 58px;
+    margin-left: 650px;
+    color: aliceblue;
+}
+.iconca_06{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 150px;
+}
+.iconca_07{
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 105px;
+}
+.iconca_08{
+    position: absolute;
+    margin-left: 1130px;
+    margin-top: 105px;
+}
+.iconca_09{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 15px;
+}
+
+.iconca_10{
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 55px;
+}
+.iconca_11{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 550px;
+}
+
+
+.iconca_12{
+position: absolute;
+margin-top:590px;
+margin-left: 1030px;
+}
